@@ -1,4 +1,3 @@
-const { error } = require("node:console");
 const net = require("node:net");
 
 function findAvailablePort(desiredPort) {
